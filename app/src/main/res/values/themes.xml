@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Notatnik" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/olivedrab</item>
+        <item name="colorPrimaryVariant">@color/springgreen</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/springgreen</item>
+        <item name="colorSecondaryVariant">@color/springgreen</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+</resources>
